@@ -1,10 +1,10 @@
 # Hospital-Patient-Doctor-Analytics-Dashboard
 
 1. Project Overview
-The Hospital Analytics Dashboard is an interactive Power BI solution developed to analyze hospital operations, patient records, doctor performance, billing, and medicine sales. The dashboard helps stakeholders gain quick, actionable insights into healthcare performance, financial metrics, and treatment outcomes through a single, unified view.
+- The Hospital Analytics Dashboard is an interactive Power BI solution developed to analyze hospital operations, patient records, doctor performance, billing, and medicine sales. The dashboard helps stakeholders gain quick, actionable insights into healthcare performance, financial metrics, and treatment outcomes through a single, unified view.
 
 2. Objective
-The primary goal of this project is to transform raw hospital data into meaningful insights that support operational efficiency, revenue tracking, and performance evaluation. The dashboard enables hospital management and analysts to monitor patient journeys, doctor productivity, and cost drivers in real time.
+- The primary goal of this project is to transform raw hospital data into meaningful insights that support operational efficiency, revenue tracking, and performance evaluation. The dashboard enables hospital management and analysts to monitor patient journeys, doctor productivity, and cost drivers in real time.
 
 3. Tools & Technologies
 
@@ -48,5 +48,6 @@ The primary goal of this project is to transform raw hospital data into meaningf
 - Enhances decision-making with clean, interactive, and real-time analytics
 
 7. Screenshots
+   
    ![Preview1](https://github.com/shivamsav1215/Hospital-Patient-Doctor-Analytics-Dashboard/blob/main/Hospital%20Patient%20Dashboard.png)
    ![Preview2](https://github.com/shivamsav1215/Hospital-Patient-Doctor-Analytics-Dashboard/blob/main/Hospital%20Doctor%20Dashboard.png)
