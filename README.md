@@ -1,4 +1,4 @@
-# Hospital-Patient-Doctor-Analytics-Dashboard
+# Hospital Patient-Doctor Analytics Dashboard
 
 1. Project Overview
 - The Hospital Analytics Dashboard is an interactive Power BI solution developed to analyze hospital operations, patient records, doctor performance, billing, and medicine sales. The dashboard helps stakeholders gain quick, actionable insights into healthcare performance, financial metrics, and treatment outcomes through a single, unified view.
@@ -24,20 +24,20 @@
    
 🧑‍🤝‍🧑 Patient Analytics Dashboard
 
-- Interactive patient selection with search functionality
-- Detailed patient profile including diagnosis, assigned doctor, and treatment status
-- Admission and discharge timeline tracking
-- Breakdown of hospital charges such as surgery, room, tests, and discounts
-- Analysis of medicine consumption by type and quantity
-- Patient feedback and rating insights for service quality evaluation
+   - Interactive patient selection with search functionality
+   - Detailed patient profile including diagnosis, assigned doctor, and treatment status
+   - Admission and discharge timeline tracking
+   - Breakdown of hospital charges such as surgery, room, tests, and discounts
+   - Analysis of medicine consumption by type and quantity
+   - Patient feedback and rating insights for service quality evaluation
 
 👨‍⚕️ Doctor Analytics Dashboard
 
-- Doctor profile view with department and specialization details
-- Tracking of patient spend, doctor fees, and commission amounts
-- Interactive commission calculator for scenario-based analysis
-- Appointment monitoring for workload assessment
-- Patient-level billing summary linked to doctor performance
+   - Doctor profile view with department and specialization details
+   - Tracking of patient spend, doctor fees, and commission amounts
+   - Interactive commission calculator for scenario-based analysis
+   - Appointment monitoring for workload assessment
+   - Patient-level billing summary linked to doctor performance
 
 6. Business Value & Insights
 
